@@ -1,0 +1,11 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+*.xcresult
+*.trace
+.swiftpm/
+.build/
+Config/Secrets.xcconfig
+__pycache__/
